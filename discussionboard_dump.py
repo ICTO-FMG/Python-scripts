@@ -122,4 +122,4 @@ def discussion_content(class_id,token):
     print ("Going to sleep mode")
     print("Zzzzzzzz")
 
-print(discussion_content("5793","10392~nO1s0OuSaCnwzyQvDR88K5ZBJYtZSh4qCjQU4AXSbNt7BZnPqUKK380YQdbfHEuL"))
+print(discussion_content("class_id","token"))
