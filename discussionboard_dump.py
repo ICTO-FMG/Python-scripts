@@ -2,7 +2,7 @@ import requests
 import csv
 
 '''
-This script makes a dump of the contents of the discussion board on Canvas. 
+This script makes a dump of the contents of the discussion board on Canvas and writes everything to one file per discussion board accourding to their Canvas discussion ID. 
 It requires the course_id in which the discussion board is present. You can find it 
 by going to the course on canvas and look at the browser url the number after /courses/
 is your course_id.
